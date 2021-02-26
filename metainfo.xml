@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<presentation guid="DA5945BF-40EF-4912-A9DF-05E690C219F3" version="0" availableOffline="1">
+<presentation guid="6F2AA290-5315-4A66-AF5A-AC8C89DF72A5" version="0" availableOffline="1">
 	<info>
 		<title>Comparative &amp; Superlative</title>
 		<description/>
 	</info>
-	<files index="id66" thumbnail="id98" totalSize="5417458">
+	<files index="id61" thumbnail="id91" totalSize="5227886">
 		<file id="id0">data/thmb1.png</file>
 		<file id="id1">data/slide1.js</file>
 		<file id="id2">data/slide1.css</file>
@@ -58,53 +58,46 @@
 		<file id="id50">data/quiz2/fonts/fnt0.woff</file>
 		<file id="id51">data/quiz2/fonts/fnt1.woff</file>
 		<file id="id52">data/quiz2/fonts/fnt2.woff</file>
-		<file id="id53">data/quiz2/images/4df8-5ce8-d757-119a.png</file>
-		<file id="id54">data/quiz2/images/76fd-67b0-1baa-1c3c.png</file>
-		<file id="id55">data/quiz2/images/9c42-0d58-1be6-edfb.png</file>
-		<file id="id56">data/quiz2/images/9cb7-c7d5-764f-cca9.png</file>
-		<file id="id57">data/quiz2/images/a12d-3696-1d00-65ee.png</file>
-		<file id="id58">data/quiz2/images/ad94-9add-f096-d520.png</file>
+		<file id="id53">data/quiz2/images/29de-6069-58a9-56bf.png</file>
+		<file id="id54">data/quiz2/images/6ed7-e26b-425e-f6bb.png</file>
+		<file id="id55">data/quiz2/images/870a-55aa-37c1-9c34.png</file>
+		<file id="id56">data/quiz2/images/a72e-a868-b826-3e2b.png</file>
+		<file id="id57">data/quiz2/images/d961-7d49-71f9-6aaf.png</file>
+		<file id="id58">data/quiz2/images/e937-2060-7ab7-549b.png</file>
 		<file id="id59">data/quiz2/images/quiz_bg_1.png</file>
-		<file id="id60">data/thmb17.png</file>
-		<file id="id61">data/quiz3.js</file>
-		<file id="id62">data/quiz3/fonts/fnt0.woff</file>
-		<file id="id63">data/quiz3/fonts/fnt1.woff</file>
-		<file id="id64">data/quiz3/images/quiz_bg_0.png</file>
-		<file id="id65">data/quizplayer.js</file>
-		<file id="id66">index.html</file>
-		<file id="id67">data/player.js</file>
-		<file id="id72">data/browsersupport.js</file>
-		<file id="id73">data/apple-touch-icon.png</file>
-		<file id="id74">data/favicon.ico</file>
-		<file id="id75">data/fnt0.woff</file>
-		<file id="id76">data/fnt1.woff</file>
-		<file id="id77">data/fnt10.woff</file>
-		<file id="id78">data/fnt2.woff</file>
-		<file id="id79">data/fnt3.woff</file>
-		<file id="id80">data/fnt4.woff</file>
-		<file id="id81">data/fnt5.woff</file>
-		<file id="id82">data/fnt6.woff</file>
-		<file id="id83">data/fnt7.woff</file>
-		<file id="id84">data/fnt8.woff</file>
-		<file id="id85">data/fnt9.woff</file>
-		<file id="id86">data/html5-unsupported.html</file>
-		<file id="id87">data/html5.png</file>
-		<file id="id88">data/img0.png</file>
-		<file id="id89">data/img1.png</file>
-		<file id="id90">data/img2.png</file>
-		<file id="id91">data/img3.jpg</file>
-		<file id="id92">data/img4.png</file>
-		<file id="id93">data/img5.png</file>
-		<file id="id94">data/img6.png</file>
-		<file id="id95">data/img7.png</file>
-		<file id="id96">data/img8.png</file>
-		<file id="id97">data/logo1.png</file>
-		<file id="id98">data/ismplayer/preview.png</file>
-		<file id="id99">data/ismplayer/play.svg</file>
-		<file id="id100">data/ismplayer/style.css</file>
-		<file id="id101">data/ismplayer/style_mini.css</file>
-		<file id="id102">ismplayer.html</file>
-		<file id="id103">data/ismplayer/app_store2x.png</file>
-		<file id="id104">metainfo.xml</file>
+		<file id="id60">data/quizplayer.js</file>
+		<file id="id61">index.html</file>
+		<file id="id62">data/player.js</file>
+		<file id="id67">data/browsersupport.js</file>
+		<file id="id68">data/apple-touch-icon.png</file>
+		<file id="id69">data/favicon.ico</file>
+		<file id="id70">data/fnt0.woff</file>
+		<file id="id71">data/fnt1.woff</file>
+		<file id="id72">data/fnt10.woff</file>
+		<file id="id73">data/fnt2.woff</file>
+		<file id="id74">data/fnt3.woff</file>
+		<file id="id75">data/fnt4.woff</file>
+		<file id="id76">data/fnt5.woff</file>
+		<file id="id77">data/fnt6.woff</file>
+		<file id="id78">data/fnt7.woff</file>
+		<file id="id79">data/fnt8.woff</file>
+		<file id="id80">data/fnt9.woff</file>
+		<file id="id81">data/html5-unsupported.html</file>
+		<file id="id82">data/html5.png</file>
+		<file id="id83">data/img0.png</file>
+		<file id="id84">data/img1.png</file>
+		<file id="id85">data/img2.png</file>
+		<file id="id86">data/img3.jpg</file>
+		<file id="id87">data/img4.png</file>
+		<file id="id88">data/img5.png</file>
+		<file id="id89">data/img6.png</file>
+		<file id="id90">data/img7.png</file>
+		<file id="id91">data/ismplayer/preview.png</file>
+		<file id="id92">data/ismplayer/play.svg</file>
+		<file id="id93">data/ismplayer/style.css</file>
+		<file id="id94">data/ismplayer/style_mini.css</file>
+		<file id="id95">ismplayer.html</file>
+		<file id="id96">data/ismplayer/app_store2x.png</file>
+		<file id="id97">metainfo.xml</file>
 	</files>
 </presentation>
